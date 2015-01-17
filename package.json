@@ -1,0 +1,10 @@
+{
+  "name": "language-ofx",
+  "version": "0.0.0",
+  "description": "OFX language support in Atom",
+  "repository": "https://github.com/JimDabell/language-ofx",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}

@@ -1,0 +1,14 @@
+
+'fileTypes': [
+  'ofx'
+]
+
+'name': 'Open Financial Exchange'
+
+'patterns': [
+  {
+    'include': 'text.xml'
+  }
+]
+
+'scopeName': 'source.ofx'
